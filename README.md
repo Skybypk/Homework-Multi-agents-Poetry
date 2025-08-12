@@ -23,7 +23,8 @@ text
 🤝 Contribute & Use
 Improve it: Add tools/agents!
 
-License: Free for learning/modifying.
+License: Free for learning/modifying...
+
 
 
 
